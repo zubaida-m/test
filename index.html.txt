@@ -3,7 +3,7 @@
 <title> TRA GIT 2023 </title>
 </head>
 <body>
-<h1>Welcome to GITHUB</h1>
+<h1>Welcome to GITHUB -TRA</h1>
 <p>This is my first Git Repo</p>
 </body>
 </html>
